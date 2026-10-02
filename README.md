@@ -1,3 +1,4 @@
+<img width="477" height="334" alt="panel" src="https://github.com/user-attachments/assets/d3e1113b-4875-47d2-ab0d-01b41b4286f6" />
 # Instagram Takip Etmeyenler / Instagram Unfollower Panel
 
 Instagram'da takip ettiğin hesaplarla takipçilerini karşılaştıran, seni geri takip etmeyen hesapları modern bir panel üzerinden gösteren hafif bir tarayıcı aracıdır.
